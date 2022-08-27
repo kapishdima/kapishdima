@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Kapish Dima</h1>
+<h1 align="left">Hi 👋, I'm Kapish</h1>
 <h3 align="left">A young, promising web developer who loves his job and is ready to conquer new horizons</h3>
 
 - 🔭 I’m currently working on [Projector](https://github.com/kapishdima/projector)
